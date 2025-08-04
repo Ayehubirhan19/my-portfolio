@@ -1,4 +1,4 @@
-# my-portfolio
+# My-portfolio
 
 Welcome to my personal web portfolio! This project showcases my educational background, and selected projects in a visually appealing and responsive website.
 
