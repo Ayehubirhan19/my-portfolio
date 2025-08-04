@@ -8,7 +8,7 @@ I’m Ayehubirhan Teshome, a passionate web developer with a focus on building c
 
 ## 🎓 Education
 
-- **Degree**: BSC Of Computer Scince
+- **Degree**: BSC Of Computer Science
 - **Institution**: Arba Minch University 
 - **Year**: 2023
 
