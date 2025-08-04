@@ -27,6 +27,6 @@ I’m Ayehubirhan Teshome, a passionate web developer with a focus on building c
 ## 📫 Contact
 
 - **Email**: ayehubirhan180@gmail.com
-- **LinkedIn**: [[Your LinkedIn]](https://www.linkedin.com/in/ayehubirhan-teshome-0327042b1
+- **LinkedIn**: https://www.linkedin.com/in/ayehubirhan-teshome-0327042b1
 
 ---
